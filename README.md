@@ -1,2 +1,2 @@
 # NordVpnChecker
-Checks NordVpn Accounts.
+Checks NordVpn Accounts. Exe can be dont work.
